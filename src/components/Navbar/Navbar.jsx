@@ -40,7 +40,7 @@ const Navbar = () => {
           <img src={assets.basket_icon} alt="" />
           <div className="dot"></div>
         </div>
-        <button>sign in</button>
+        <button className="primary-btn">sign in</button>
       </div>
     </div>
   );
