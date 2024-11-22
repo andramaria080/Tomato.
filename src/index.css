@@ -48,6 +48,13 @@ a {
   font-size: max(1vw, 13px);
   border-radius: 50px;
 }
+.third-btn {
+  border: none;
+  border-radius: 4px;
+  color: var(--white);
+  background-color: var(--tomato);
+  cursor: pointer;
+}
 @keyframes fadeIn {
   0% {
     opacity: 0;

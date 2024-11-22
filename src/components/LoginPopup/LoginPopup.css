@@ -42,13 +42,8 @@
 }
 
 .login-popup-container button {
-  border: none;
   padding: 10px;
-  border-radius: 4px;
-  color: var(--white);
-  background-color: var(--tomato);
   font-size: 16px;
-  cursor: pointer;
 }
 .login-popup-condition {
   display: flex;
